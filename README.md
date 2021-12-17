@@ -26,8 +26,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)](https://t.me/sharapagorg)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sharapagorg)
 [![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
-[![SharapaGorg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharapagorg&theme=ocean_dark&show_icons=true&border_radius=25)](https://github.com/SharapaGorg?tab=repositories)
+[![SharapaGorg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharapagorg&theme=bear&show_icons=true&border_radius=25)](https://github.com/SharapaGorg?tab=repositories)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=__pum__tg__&theme=ocean_dark)](https://github.com/SharapaGorg/__pum__tg__)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=UploadTrackToSpotify&theme=ocean_dark)](https://github.com/SharapaGorg/UploadTrackToSpotify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=layouts__HelliosLens&theme=ocean_dark)](https://github.com/SharapaGorg/layouts__HelliosLens)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=__pum__tg__&theme=bear )](https://github.com/SharapaGorg/__pum__tg__)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=UploadTrackToSpotify&theme=bear )](https://github.com/SharapaGorg/UploadTrackToSpotify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=layouts__HelliosLens&theme=bear )](https://github.com/SharapaGorg/layouts__HelliosLens)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharapagorg&repo=FrontendCustomComponents&theme=bear )](https://github.com/SharapaGorg/FrontendCustomComponents)
