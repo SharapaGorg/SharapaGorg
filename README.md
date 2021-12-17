@@ -1,6 +1,6 @@
-[![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/saiki-kusuo-saiki-k.gif)]
+![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/saiki-kusuo-saiki-k.gif)
 
-About me
+## I`m a developing Web Programmer
 
 Languages and Tools
 
