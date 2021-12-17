@@ -26,6 +26,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)](https://t.me/sharapagorg)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sharapagorg)
 [![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
-[![SharapaGorg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharapagorg&theme=discord_old_blurple&show_icons=true&border_radius=25)](https://github.com/SharapaGorg?tab=repositories)
-
-![SharapaGorg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SharapaGorg)
