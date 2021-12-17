@@ -19,11 +19,11 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma)
 
-###Follow me
+### Follow me
 
-![Discord](https://img.shields.io/badge/-Discord-c71585?style=for-the-badge&logo=discord)
-![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)
-![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)
-![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)
+[![Discord](https://img.shields.io/badge/-Discord-c71585?style=for-the-badge&logo=discord)](SharapaGorg#0049)
+[![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)](https://t.me/sharapagorg)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sharapagorg)
+[![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
 
 
