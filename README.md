@@ -21,9 +21,9 @@
 
 ###Follow me
 
-![Discord](https://img.shields.io/badge/-Discord-ee5180?style=for-the-badge&logo=discord)
-![Telegram](https://img.shields.io/badge/-Telegram-ee5180?style=for-the-badge&logo=telegram)
-![Fiverr](https://img.shields.io/badge/-Fiverr-ee5180?style=for-the-badge&logo=fiverr)
-![Upwork](https://img.shields.io/badge/-Upwork-ee5180?style=for-the-badge&logo=upwork)
+![Discord](https://img.shields.io/badge/-Discord-c71585?style=for-the-badge&logo=discord)
+![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)
+![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)
+![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)
 
 
