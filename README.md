@@ -26,3 +26,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)](https://t.me/sharapagorg)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sharapagorg)
 [![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
+
+[![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
