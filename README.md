@@ -1,6 +1,6 @@
 ![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/saiki-kusuo-saiki-k.gif)
 
-## I`m a developing Web Programmer
+## I`m a Web Developer
 
 ### Languages and Tools
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-1e1e1e?style=for-the-badge&logo=nuxt.js)
