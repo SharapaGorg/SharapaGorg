@@ -1,4 +1,4 @@
-![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/saiki-kusuo-saiki-k.gif)
+![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/rock.mp4)
 
 ## I`m a Web Developer
 
@@ -21,7 +21,9 @@
 
 ### Information
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharapagorg&show_icons=true&theme=codeSTACKr)
 
 ### Follow me
 
