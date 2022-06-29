@@ -1,4 +1,4 @@
-![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/rock.mp4)
+![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/tenor.gif)
 
 ## I`m a Web Developer
 
@@ -28,9 +28,9 @@
 ### Follow me
 
 [//]: # ([![Discord]&#40;https://img.shields.io/badge/-Discord-c71585?style=for-the-badge&logo=discord&#41;]&#40;https://discord.gg/CGFFP2H&#41;)
-[![Discord](https://img.shields.io/discord/484025467134017568?label=&style=for-the-badge&logo=discord&logoColor=1e1e1e)](https://discord.gg/CGFFP2H)
-[![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram)](https://t.me/sharapagorg)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sharapagorg)
-[![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
+[![Discord](https://img.shields.io/discord/484025467134017568?label=&style=for-the-badge&logo=discord&logoColor=fee300&color=09131b)](https://discord.gg/CGFFP2H)
+[![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram&color=d8582c)](https://t.me/sharapagorg)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-c71585?style=for-the-badge&logo=fiverr&color=d8582c&logoColor=fee300)](https://www.fiverr.com/sharapagorg)
+[![Upwork](https://img.shields.io/badge/-Upwork-c71585?style=for-the-badge&logo=upwork&color=09131b)](https://www.upwork.com/freelancers/~01bc79375d3457497e)
 
 [![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
