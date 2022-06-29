@@ -19,6 +19,10 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma)
 
+### Information
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Follow me
 
 [//]: # ([![Discord]&#40;https://img.shields.io/badge/-Discord-c71585?style=for-the-badge&logo=discord&#41;]&#40;https://discord.gg/CGFFP2H&#41;)
