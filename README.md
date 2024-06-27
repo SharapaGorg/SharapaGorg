@@ -25,7 +25,7 @@
 ### Some useless, but beatiful stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) ![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) ![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=gelbooru-h)
 
 
 <a href="https://github.com/jgphilpott/github-readme-activity-graph">
