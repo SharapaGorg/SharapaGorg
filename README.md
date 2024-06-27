@@ -19,9 +19,20 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma)
 
-### Information
+
+
+
+### Some useless, but beatiful stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/jgphilpott/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
 
 ![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34)
 
