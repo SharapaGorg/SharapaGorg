@@ -34,12 +34,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake animation](https://raw.githubusercontent.com/SharapaGorg/SharapaGorg/output/github-contribution-grid-snake.svg)
-
----
-
 ## ✍️ Quote of the Day  
 
 > «Не умеешь продавать — иди работай в Макдоналдс!»  
