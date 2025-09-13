@@ -1,54 +1,59 @@
-![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/tenor.gif)
+![Glitch Header](https://i.ibb.co/3rz60qz/glitch-skull.gif)
 
-<!-- Двигающийся текст -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fee300&center=true&vCenter=true&width=500&lines=Senior+Frontend+Developer;Vue%2BNuxt+Lover;TailwindCSS+Fanatic;Python%26Backend+Enthusiast;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
-
----
-
-## 🛠 Tech Stack  
-
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-1e1e1e?style=for-the-badge&logo=nuxt.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-1e1e1e?style=for-the-badge&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e1e1e?style=for-the-badge&logo=tailwindcss)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-1e1e1e?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1e1e1e?style=for-the-badge&logo=css3)
-
-![Python](https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-1e1e1e?style=for-the-badge&logo=flask)
-
-![VSCode](https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visualstudiocode)
-![JetBrains](https://img.shields.io/badge/-JetBrains_Editors-1e1e1e?style=for-the-badge&logo=jetbrains)
-
-![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00f6ff&center=true&vCenter=true&width=500&lines=⚡+Frontend+Operative;Vue%2BNuxt+Hacker;TailwindCSS+Syntax+Bender;Python+Backline+Engineer;Uploading+knowledge...)](https://git.io/typing-svg)
 
 ---
 
-## 📊 Stats & Activity  
+## ⚡ Tech Arsenal  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=gelbooru-h)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0d0d0d?style=for-the-badge&logo=nuxt.js&logoColor=39ff14)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0d0d0d?style=for-the-badge&logo=vue.js&logoColor=00f6ff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=ff00ff)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/jgphilpott/github-readme-activity-graph)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=39ff14)
+![HTML5](https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff00ff)
+![CSS3](https://img.shields.io/badge/-CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=00f6ff)
+
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=39ff14)
+![Flask](https://img.shields.io/badge/-Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=ff00ff)
+
+![VSCode](https://img.shields.io/badge/-VSCode-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=00f6ff)
+![JetBrains](https://img.shields.io/badge/-JetBrains_Editors-0d0d0d?style=for-the-badge&logo=jetbrains&logoColor=39ff14)
+
+![Figma](https://img.shields.io/badge/-Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=ff00ff)
 
 ---
 
-## ✍️ Quote of the Day  
+## 📊 System Metrics  
 
-> «Не умеешь продавать — иди работай в Макдоналдс!»  
-— **Олег Тиньков**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+    > system.log [BOOT]: User @SharapaGorg connected
+    > system.thread [INFO]: Running activity monitor...
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=tokyo-night&area=true&hide_border=true&custom_title=Activity+Feed+↯)](https://github.com/jgphilpott/github-readme-activity-graph)
+
+![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34)
 
 ---
 
-## 🌍 Connect with me  
+## 🕶️ Quote of the Night  
 
-[![Discord](https://img.shields.io/discord/484025467134017568?label=&style=for-the-badge&logo=discord&logoColor=fee300&color=09131b)](https://discord.gg/CGFFP2H)  
-[![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram&color=d8582c)](https://t.me/sharapagorg)  
+    [!] "Не умеешь продавать — иди работай в Макдоналдс!"
+        — Oleg_Tinkov.sys
+
+---
+
+## 🌍 Connect with Me  
+
+[![Discord](https://img.shields.io/discord/484025467134017568?label=&style=for-the-badge&logo=discord&logoColor=00f6ff&color=0d0d0d)](https://discord.gg/CGFFP2H)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39ff14)](https://t.me/sharapagorg)  
 
 [![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<p align="center">⚡️ SharapaGorg ⚡️</p>
+<p align="center">
+░█▀█░█░█░█▀█░█▄█░█▀█░█▀▄░█░█░█▀▄<br>
+░█▀▀░▀▄▀░█▀▀░█░█░█▀█░█▀▄░█░█░█▀▄
+</p>
