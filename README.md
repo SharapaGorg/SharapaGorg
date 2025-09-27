@@ -18,42 +18,37 @@
 
 ## ⚡ Participation
 
-<div align="center" style="width: 100%; display: flex;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<div style="width: 50%; padding: 40px; text-align: center;">
-
-### Radolyn
+<h3>Radolyn</h3>
 
 <img src="assets/radolyn.png" width="120" style="border-radius: 50%; border: 3px solid #00f6ff; box-shadow: 0 0 20px #00f6ff;">
 
-*◢ Bros team ◣*
+<p><em>◢ Bros team ◣</em></p>
 
-<br><br>
+<p>
+<a href="https://github.com/radolyn"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff&labelColor=1a1a1a" alt="GitHub"></a><br>
+<a href="https://radolyn.com"><img src="https://img.shields.io/badge/Website-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff&labelColor=1a1a1a" alt="Website"></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff&labelColor=1a1a1a)](https://github.com/radolyn)  
-[![Website](https://img.shields.io/badge/Website-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff&labelColor=1a1a1a)](https://radolyn.com)
+</td>
+<td width="50%" align="left" valign="top" style="padding-left: 50px;">
 
-</div>
+<h3>🚀 JOINT PROJECTS</h3>
 
-<div style="width: 50%; padding: 40px; text-align: left;">
+<p><strong>🔥 AYUGRAM</strong><br>
+Legendary Custom Telegram Client<br>
+<a href="https://github.com/AyuGram"><img src="https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff" alt="GitHub"></a> <a href="https://t.me/ayugram"><img src="https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14" alt="Telegram"></a></p>
 
-### 🚀 JOINT PROJECTS
+<p><strong>🤖 NEOVISIONBOT</strong><br>
+Next-generation AI assistant with advanced capabilities<br>
+<a href="https://t.me/AIHubGPTBot"><img src="https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b" alt="Telegram"></a></p>
 
-<br>
-
-**🔥 AYUGRAM**  
-Legendary Custom Telegram Client  
-[![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Telegram](https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
-
-<br>
-
-**🤖 NEOVISIONBOT**  
-Next-generation AI assistant with advanced capabilities  
-[![Telegram](https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
