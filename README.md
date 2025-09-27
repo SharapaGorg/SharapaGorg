@@ -18,12 +18,9 @@
 
 ## ⚡ Participation
 
-<div align="center">
+<div align="center" style="width: 100%; display: flex;">
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="50%" valign="top" style="padding: 40px;">
-<br>
+<div style="width: 50%; padding: 40px; text-align: center;">
 
 ### Radolyn
 
@@ -31,36 +28,30 @@
 
 *◢ Bros team ◣*
 
-<br>
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff&labelColor=1a1a1a)](https://github.com/radolyn)  
 [![Website](https://img.shields.io/badge/Website-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff&labelColor=1a1a1a)](https://radolyn.com)
 
-</td>
-<td align="left" width="50%" valign="top" style="padding: 40px;">
-<br>
+</div>
+
+<div style="width: 50%; padding: 40px; text-align: left;">
 
 ### 🚀 JOINT PROJECTS
 
 <br>
 
 **🔥 AYUGRAM**  
-Legendary Custom Telegram Client
-
+Legendary Custom Telegram Client  
 [![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Telegram](https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
 
 <br>
 
 **🤖 NEOVISIONBOT**  
-Next-generation AI assistant
-
+Next-generation AI assistant with advanced capabilities  
 [![Telegram](https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
 
-<br>
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
