@@ -1,54 +1,63 @@
-![Header](https://github.com/SharapaGorg/SharapaGorg/blob/main/assets/tenor.gif)
+<div align="center">
 
-<!-- Двигающийся текст -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fee300&center=true&vCenter=true&width=500&lines=Senior+Frontend+Developer;Vue%2BNuxt+Lover;TailwindCSS+Fanatic;Python%26Backend+Enthusiast;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+![Glitch Header](https://i.ibb.co/3rz60qz/glitch-skull.gif)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00f6ff&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue%2BNuxt+Enjoyer;Startup+Maniac;110kg+Bench+Press)](https://git.io/typing-svg)
 
-## 🛠 Tech Stack  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-1e1e1e?style=for-the-badge&logo=nuxt.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-1e1e1e?style=for-the-badge&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1e1e1e?style=for-the-badge&logo=tailwindcss)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=tokyo-night&area=true&hide_border=true&custom_title=↯+NEURAL+ACTIVITY+FEED+↯&bg_color=0d0d0d&color=00f6ff&line=00f6ff&point=ffffff)](https://github.com/jgphilpott/github-readme-activity-graph)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-1e1e1e?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1e1e1e?style=for-the-badge&logo=css3)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Python](https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-1e1e1e?style=for-the-badge&logo=flask)
+![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34)
 
-![VSCode](https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visualstudiocode)
-![JetBrains](https://img.shields.io/badge/-JetBrains_Editors-1e1e1e?style=for-the-badge&logo=jetbrains)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma)
+</div>
 
----
+## ⚡ NEURAL LINK ESTABLISHED
 
-## 📊 Stats & Activity  
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharapagorg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=gelbooru-h)
+<table>
+<tr>
+<td align="center" width="300">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharapaGorg&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity)](https://github.com/jgphilpott/github-readme-activity-graph)
+### 🔗 CONNECTION NODE
+**RADOLYN.EXE**
+<br>
+<img src="assets/radolyn.png" width="80" style="border-radius: 50%; border: 2px solid #00f6ff;">
+<br>
+<sub>◢ Bros ◣</sub>
+<br><br>
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff)](https://github.com/radolyn)
+[![Website](https://img.shields.io/badge/NEURAL_NET-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff)](https://radolyn.com)
 
----
+</td>
+<td align="left" width="400">
 
-## ✍️ Quote of the Day  
+### 🚀 ACTIVE PROJECTS
 
-> «Не умеешь продавать — иди работай в Макдоналдс!»  
-— **Олег Тиньков**
+**◢ AYUGRAM**  
+*Next-gen Telegram client*  
+[![Repo](https://img.shields.io/badge/REPO-0d0d0d?style=flat-square&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Channel](https://img.shields.io/badge/CHANNEL-0d0d0d?style=flat-square&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
 
----
+**◢ NEOVISIONBOT**  
+*AI-powered assistant*  
+[![Bot](https://img.shields.io/badge/ACTIVATE-0d0d0d?style=flat-square&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
 
-## 🌍 Connect with me  
+</td>
+</tr>
+</table>
 
-[![Discord](https://img.shields.io/discord/484025467134017568?label=&style=for-the-badge&logo=discord&logoColor=fee300&color=09131b)](https://discord.gg/CGFFP2H)  
-[![Telegram](https://img.shields.io/badge/-Telegram-c71585?style=for-the-badge&logo=telegram&color=d8582c)](https://t.me/sharapagorg)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
+## 🌐 EXTERNAL LINKS
 
----
+[![Discord](https://img.shields.io/badge/DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=00f6ff)](https://discord.gg/CGFFP2H)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39ff14)](https://t.me/sharapagorg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<p align="center">⚡️ SharapaGorg ⚡️</p>
+[![WakaTime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg?style=for-the-badge)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
+
+</div>
