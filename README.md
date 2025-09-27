@@ -16,43 +16,55 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## ⚡ Participation
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="300">
+<td align="center" width="35%" valign="top">
+<br>
 
-### 🔗  NODE
-**RADOLYN.EXE**
+### 👤 PARTNER
+
+<img src="assets/radolyn.png" width="120" style="border-radius: 50%; border: 3px solid #00f6ff; box-shadow: 0 0 20px #00f6ff;">
+
+**RADOLYN**  
+*◢ Legendary Developer ◣*
+
 <br>
-<img src="assets/radolyn.png" width="80" style="border-radius: 50%; border: 2px solid #00f6ff;">
-<br>
-<sub>◢ Bros ◣</sub>
-<br><br>
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff)](https://github.com/radolyn)
-[![Website](https://img.shields.io/badge/NEURAL_NET-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff)](https://radolyn.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f6ff&labelColor=1a1a1a)](https://github.com/radolyn)  
+[![Website](https://img.shields.io/badge/Website-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff&labelColor=1a1a1a)](https://radolyn.com)
 
 </td>
-<td align="left" width="400">
+<td width="10%"></td>
+<td align="left" width="55%" valign="top">
+<br>
 
-### 🚀 ACTIVE PROJECTS
+### 🚀 JOINT PROJECTS
 
-**◢ AYUGRAM**  
-*Next-gen Telegram client*  
-[![Repo](https://img.shields.io/badge/REPO-0d0d0d?style=flat-square&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Channel](https://img.shields.io/badge/CHANNEL-0d0d0d?style=flat-square&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
+<br>
 
-**◢ NEOVISIONBOT**  
-*AI-powered assistant*  
-[![Bot](https://img.shields.io/badge/ACTIVATE-0d0d0d?style=flat-square&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
+**🔥 AYUGRAM**  
+Advanced Telegram client with enhanced features  
+[![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Telegram](https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
+
+<br>
+
+**🤖 NEOVISIONBOT**  
+Next-generation AI assistant with advanced capabilities  
+[![Telegram](https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
 
 ## 🌐 EXTERNAL LINKS
 
