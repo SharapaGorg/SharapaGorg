@@ -22,7 +22,7 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="100%" align="center" valign="top">
 
 <h3>Radolyn</h3>
 
@@ -36,7 +36,7 @@
 </p>
 
 </td>
-<td width="50%" align="left" valign="top" style="padding-left: 50px;">
+<td width="100%" align="left" valign="top" style="padding-left: 50px;">
 
 <h3>🚀 JOINT PROJECTS</h3>
 
