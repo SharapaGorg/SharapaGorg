@@ -18,6 +18,8 @@
 
 ## ⚡ Participation
 
+<div align="center">
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="top">
@@ -40,15 +42,19 @@
 
 <p><strong>🔥 AYUGRAM</strong><br>
 Legendary Custom Telegram Client<br>
+
 <a href="https://github.com/AyuGram"><img src="https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff" alt="GitHub"></a> <a href="https://t.me/ayugram"><img src="https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14" alt="Telegram"></a></p>
 
 <p><strong>🤖 NEOVISIONBOT</strong><br>
-Next-generation AI assistant with advanced capabilities<br>
+Next-generation AI assistant<br>
+
 <a href="https://t.me/AIHubGPTBot"><img src="https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b" alt="Telegram"></a></p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
