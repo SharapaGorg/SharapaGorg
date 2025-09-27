@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="35%" valign="top">
+<td align="center" width="55%" valign="top" style="padding: 30px">
 <br>
 
 ### Radolyn
