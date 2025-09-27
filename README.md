@@ -10,13 +10,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>
+
 ![SharapaGorg](https://moe-counter.glitch.me/get/@SharapaGorg?theme=rule34)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
 
-## ⚡ NEURAL LINK ESTABLISHED
+## ⚡ Participation
 
 <div align="center">
 
@@ -24,7 +25,7 @@
 <tr>
 <td align="center" width="300">
 
-### 🔗 CONNECTION NODE
+### 🔗  NODE
 **RADOLYN.EXE**
 <br>
 <img src="assets/radolyn.png" width="80" style="border-radius: 50%; border: 2px solid #00f6ff;">
