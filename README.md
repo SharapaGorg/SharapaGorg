@@ -25,12 +25,11 @@
 <td align="center" width="35%" valign="top">
 <br>
 
-### 👤 PARTNER
+### Radolyn
 
 <img src="assets/radolyn.png" width="120" style="border-radius: 50%; border: 3px solid #00f6ff; box-shadow: 0 0 20px #00f6ff;">
 
-**RADOLYN**  
-*◢ Legendary Developer ◣*
+*◢ Bros team ◣*
 
 <br>
 
@@ -47,13 +46,13 @@
 <br>
 
 **🔥 AYUGRAM**  
-Advanced Telegram client with enhanced features  
+Legendary Custom Telegram Client
 [![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=flat&logo=github&logoColor=00f6ff)](https://github.com/AyuGram) [![Telegram](https://img.shields.io/badge/Channel-0d0d0d?style=flat&logo=telegram&logoColor=39ff14)](https://t.me/ayugram)
 
 <br>
 
 **🤖 NEOVISIONBOT**  
-Next-generation AI assistant with advanced capabilities  
+Next-generation AI assistant
 [![Telegram](https://img.shields.io/badge/Try_Bot-0d0d0d?style=flat&logo=telegram&logoColor=ff6b6b)](https://t.me/AIHubGPTBot)
 
 <br>
