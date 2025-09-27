@@ -54,8 +54,6 @@ Next-generation AI assistant<br>
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 🌐 EXTERNAL LINKS
@@ -64,5 +62,4 @@ Next-generation AI assistant<br>
 [![Telegram](https://img.shields.io/badge/TELEGRAM-0d0d0d?style=for-the-badge&logo=telegram&logoColor=39ff14)](https://t.me/sharapagorg)
 
 [![WakaTime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg?style=for-the-badge)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
-
 </div>
