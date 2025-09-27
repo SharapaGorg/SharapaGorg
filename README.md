@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellpadding="20" cellspacing="0" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="55%" valign="top" style="padding: 30px">
+<td align="center" width="50%" valign="top" style="padding: 40px;">
 <br>
 
 ### Radolyn
@@ -37,8 +37,7 @@
 [![Website](https://img.shields.io/badge/Website-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00f6ff&labelColor=1a1a1a)](https://radolyn.com)
 
 </td>
-<td width="10%"></td>
-<td align="left" width="55%" valign="top" style="padding : 30px">
+<td align="left" width="50%" valign="top" style="padding: 40px;">
 <br>
 
 ### 🚀 JOINT PROJECTS
