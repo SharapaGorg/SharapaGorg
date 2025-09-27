@@ -38,7 +38,7 @@
 
 </td>
 <td width="10%"></td>
-<td align="left" width="55%" valign="top">
+<td align="left" width="55%" valign="top" style="padding : 30px">
 <br>
 
 ### 🚀 JOINT PROJECTS
