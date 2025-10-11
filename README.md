@@ -25,7 +25,7 @@
 <td width="50%" align="center" valign="top">
 
 <h3>Radolyn</h3>
-
+ 
 <img src="assets/radolyn.png" width="120" style="border-radius: 50%; border: 3px solid #00f6ff; box-shadow: 0 0 20px #00f6ff;">
 
 <p><em>◢ Bros team ◣</em></p>
