@@ -1,3 +1,9 @@
+<div align="right">
+
+**English** · [Русский](README.ru.md)
+
+</div>
+
 <div align="center">
 
 <a href="https://writelo.io?utm_source=github&utm_medium=profile&utm_campaign=readme">
@@ -10,6 +16,12 @@
 [![Telegram](https://img.shields.io/badge/@sharapagorg-0e1116?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/sharapagorg)
 [![Email](https://img.shields.io/badge/dushin.egor.dm@yandex.ru-0e1116?style=for-the-badge&logo=maildotru&logoColor=FF4D4D)](mailto:dushin.egor.dm@yandex.ru)
 [![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg?style=for-the-badge)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
+
+<br/>
+
+[![Order a project](https://img.shields.io/badge/🛠_Order_a_project-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20development%20project)
+[![Order a security audit](https://img.shields.io/badge/🛡_Order_a_security_audit-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20order%20a%20security%20audit)
+[![Discuss partnership](https://img.shields.io/badge/🤝_Discuss_partnership-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20partnership)
 
 </div>
 
@@ -97,6 +109,14 @@ Beyond my own hands, I have a circle of specialists I have worked with for years
 
 - **[Radolyn](https://github.com/radolyn)** — a small team of friends shipping products together: bots and SaaS tooling. [radolyn.com](https://radolyn.com?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - **[NeoVisionBot](https://t.me/AIHubGPTBot)** — Telegram AI assistant, a microSaaS and one of the Radolyn products.
+
+<div align="center">
+
+[![Order a project](https://img.shields.io/badge/🛠_Order_a_project-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20development%20project)
+[![Order a security audit](https://img.shields.io/badge/🛡_Order_a_security_audit-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20order%20a%20security%20audit)
+[![Discuss partnership](https://img.shields.io/badge/🤝_Discuss_partnership-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20partnership)
+
+</div>
 
 ## Stats
 
