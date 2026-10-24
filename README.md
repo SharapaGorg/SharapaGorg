@@ -83,7 +83,7 @@ Beyond my own hands, I have a circle of specialists I have worked with for years
 ## Open source
 
 - **[AyuGram Desktop](https://github.com/AyuGram/AyuGramDesktop)** — contributor. Shipped send-confirmation toggles for stickers, GIFs and voice messages, a ghost-mode switch in the tray and a reworked read-confirmation dialog. [My commits →](https://github.com/AyuGram/AyuGramDesktop/commits?author=SharapaGorg)
-- **Claude Code skills & MCP servers** — [CapCut video-edit skill](https://github.com/SharapaGorg/capcut-video-edit-skill), [Threads lead-gen MCP](https://github.com/SharapaGorg/threads-leadgen-MCP) and other agentic tooling I build for my own workflow.
+- **Claude Code skills & MCP servers** — [CapCut video-edit skill](https://github.com/SharapaGorg/capcut-video-edit-skill) and other agentic tooling I build for my own workflow.
 
 ## Team & side projects
 
