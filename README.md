@@ -28,6 +28,8 @@ Six years of building websites end to end, long before the AI era made it fashio
 
 Along the way: at **FitStars** I built their Smart TV app for LG and Samsung (webOS / Tizen) from scratch, and at **Magnit** I worked as a Senior Frontend Developer on Vue / Nuxt 3.
 
+5+ hackathons, including a prize at **DataWagon**: together with [Alexey Zavar](https://github.com/AlexeyZavar) (the maintainer of AyuGram) we built a system for coordinating railway wagons and balancing load across regional branches.
+
 ## Team on demand
 
 Beyond my own hands, I have a circle of specialists I have worked with for years. Together we can assemble a team for SecOps, DevOps, web development, mobile development and practically anything else that involves software and shipping projects. One point of contact, people I trust.
