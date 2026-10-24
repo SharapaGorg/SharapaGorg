@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://writelo.io">
+<a href="https://writelo.io?utm_source=github&utm_medium=profile&utm_campaign=readme">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=F7F7F7&center=true&vCenter=true&width=640&height=60&lines=Egor+Dushin;Founder+%40+Writelo;Full-cycle+engineer;Frontend+%7C+Backend+%7C+DevOps;AI+search+%26+RAG+systems;Security+%26+pentesting;...and+whoever+else+is+needed+today" alt="Egor Dushin — founder, full-cycle engineer, security" />
 </a>
 
-**Building [Writelo](https://writelo.io) · shipping full-cycle web & AI systems · breaking things so others can't**
+**Building [Writelo](https://writelo.io?utm_source=github&utm_medium=profile&utm_campaign=readme) · shipping full-cycle web & AI systems · breaking things so others can't**
 
-[![Writelo](https://img.shields.io/badge/writelo.io-0e1116?style=for-the-badge&logo=rocket&logoColor=white)](https://writelo.io)
+[![Writelo](https://img.shields.io/badge/writelo.io-0e1116?style=for-the-badge&logo=rocket&logoColor=white)](https://writelo.io?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![Telegram](https://img.shields.io/badge/@sharapagorg-0e1116?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/sharapagorg)
 [![Email](https://img.shields.io/badge/dushin.egor.dm@yandex.ru-0e1116?style=for-the-badge&logo=maildotru&logoColor=FF4D4D)](mailto:dushin.egor.dm@yandex.ru)
 [![wakatime](https://wakatime.com/badge/user/b26427ce-0968-4325-aff9-7230f45dc200.svg?style=for-the-badge)](https://wakatime.com/@b26427ce-0968-4325-aff9-7230f45dc200)
@@ -17,7 +17,7 @@
 
 ## Now
 
-- 🚀 **Founding [Writelo](https://writelo.io)** — a SaaS for SMM teams and creators: daily trending Reels for your niche plus AI breakdowns of any short-form video. I am the CEO, the frontend, the SEO, the marketing and the support desk. Half a year in, 500 MAU and growing.
+- 🚀 **Founding [Writelo](https://writelo.io?utm_source=github&utm_medium=profile&utm_campaign=readme)** — a SaaS for SMM teams and creators: daily trending Reels for your niche plus AI breakdowns of any short-form video. I am the CEO, the frontend, the SEO, the marketing and the support desk. Half a year in, 500 MAU and growing.
 - 🔎 **Semantic search over a huge dataset** — free-text querying across a massive corpus: vector DB, hybrid retrieval, rerankers, LLM on top. Contract work.
 - 🛡️ **Company-wide security audit** — web, infrastructure and legal surface of a business, from recon to closing the holes. Contract work together with a partner.
 - 🎓 **4th year @ Innopolis University** — Data Science & AI, Cyber Security track.
@@ -33,6 +33,14 @@ Along the way: at **FitStars** I built their Smart TV app for LG and Samsung (we
 ## Team on demand
 
 Beyond my own hands, I have a circle of specialists I have worked with for years. Together we can assemble a team for SecOps, DevOps, web development, mobile development and practically anything else that involves software and shipping projects. One point of contact, people I trust.
+
+<div align="center">
+
+[![Order a project](https://img.shields.io/badge/🛠_Order_a_project-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20development%20project)
+[![Order a security audit](https://img.shields.io/badge/🛡_Order_a_security_audit-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20order%20a%20security%20audit)
+[![Discuss partnership](https://img.shields.io/badge/🤝_Discuss_partnership-1e1e1e?style=for-the-badge)](https://t.me/sharapagorg?text=Hi%20Egor%2C%20I%27d%20like%20to%20discuss%20a%20partnership)
+
+</div>
 
 ## Stack
 
@@ -87,7 +95,7 @@ Beyond my own hands, I have a circle of specialists I have worked with for years
 
 ## Team & side projects
 
-- **[Radolyn](https://github.com/radolyn)** — a small team of friends shipping products together: bots and SaaS tooling. [radolyn.com](https://radolyn.com)
+- **[Radolyn](https://github.com/radolyn)** — a small team of friends shipping products together: bots and SaaS tooling. [radolyn.com](https://radolyn.com?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - **[NeoVisionBot](https://t.me/AIHubGPTBot)** — Telegram AI assistant, a microSaaS and one of the Radolyn products.
 
 ## Stats
